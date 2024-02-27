@@ -32,7 +32,7 @@ def fill_smoking(X):
     return X
 
 def fill_bmi(X):
-    X['bmi'] = X['bmi'].fillna('unkown')
+    X['BMI'] = X['BMI'].fillna('unkown')
     return X
 
 def fill_missing(X):
