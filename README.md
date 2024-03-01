@@ -40,7 +40,8 @@
     - XGBoost
   
 
-* **Colophon**
+* **references**
+
   - Credits --  original code written by: Sirisha Mandava, Jeff Boczkaja, Mohamed Altoobli, Jesse Kranyak
   - inspiration for project-- 
     -  https://www.kaggle.com/code/thomaskonstantin/analyzing-and-modeling-stroke-data
