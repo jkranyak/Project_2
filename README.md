@@ -163,7 +163,8 @@ Despite the challenges presented by lifestyle data, the Random Forest Classifier
   <img src="/image%20/model-performance.png" alt="model performance " width="800" >
 </p>
 
-
+-----------------------------------------------------------------------------------------------
+for revision / Delete
 
 * **Stroke Prediction** 
   - Stroke prediction project that leverages a dataset of ### people with ### data points to assertain the outcome of potential strokes for medical predictive outcomes
@@ -202,7 +203,7 @@ Despite the challenges presented by lifestyle data, the Random Forest Classifier
     - Cat Boost 
     - XGBoost
   
-
+----------------------------------------------------
 
 <a name="references"></a>
 ## 5. References
