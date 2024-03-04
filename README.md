@@ -163,48 +163,6 @@ Despite the challenges presented by lifestyle data, the Random Forest Classifier
   <img src="/image%20/model-performance.png" alt="model performance " width="800" >
 </p>
 
------------------------------------------------------------------------------------------------
-for revision / Delete
-
-* **Stroke Prediction** 
-  - Stroke prediction project that leverages a dataset of ### people with ### data points to assertain the outcome of potential strokes for medical predictive outcomes
-  - Conducted in-depth analyses of multiple major factors related to brain health to identify and isolate highly correlated elements to better predict stroke risk
-  - Explored the impact of lifestyle choices on brain health to help hospitals uncover valuable correlations and potential avenues for stroke mitigation
-   
-
-* **Overview**
-  - This project developes a pipeline for data entry of individual records to predict the potential adverse outcome of a stroke.
-  - While this dataset could be helpful at predicting the potential for having a stroke, it has its limitations and pitfalls in its scope of predictive potential
-
-* **Example Usage**: Phyisicians in a hospital or clinical setting could potentially use a pipeline like this given the easily obtained parameters to measure the potential negative outcome or risk of the adverse outcome of having a stroke 
-
-* **Getting Started**
-  - loading the data
-
-  - cleaning the data:
-    - dropna
-    - value_counts
-        - data is imbalanced 
-            - create synthetic balance using SMOTE
-    - convert objects to categorical variables
-    - encode features
-    - Scale the data
-        - standard scaler 
-    - travis-ci results
-    - mailing list
-
-  - analyzing the data:
-    - decision tree
-    - PCA
-    - Random Forest
-        - Max depth 
-        - confusion matrix
-    - K Neighbors
-    - Cat Boost 
-    - XGBoost
-  
-----------------------------------------------------
-
 <a name="references"></a>
 ## 5. References
 
@@ -221,3 +179,13 @@ Credits -  original code written by: Sirisha Mandava, Jeff Boczkaja, Mohamed Alt
 
 <a name="directory"></a>
 ## 6. Directory Structure 
+- image/
+  - Contain images used in the project
+- old work/
+  - contain files which we test and try
+- Project 2 complete
+  -our main file
+-healthcare-dataset-stroke-data.csv
+  -our main data set
+- README.md
+  -You are Here 
