@@ -187,5 +187,7 @@ Credits -  original code written by: Sirisha Mandava, Jeff Boczkaja, Mohamed Alt
   -our main file
 -healthcare-dataset-stroke-data.csv
   -our main data set
+-Presentation Project 2.pdf
+  -out Presentation file
 - README.md
   -You are Here 
