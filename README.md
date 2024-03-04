@@ -1,6 +1,6 @@
 # Project_2
 
-![cover Project conterbuter](<images/cover.png>)
+![cover Project conterbuter](images/cover.png)
 
 
 ## Table of Contents
