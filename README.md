@@ -67,7 +67,7 @@ Formula: Balanced Accuracy Score = (1/2) * ((TP / (TP + FN)) + (TN / (TN + FP)))
 data source 
 
 <p align="center">
-  <img src="/image%20/importing-data.png" alt="importing data" width="600" >
+  <img src="/image%20/importing-data.png" alt="importing data" width="800" >
 </p>
 
 
@@ -87,7 +87,7 @@ the sample of what we used to explor data
 
 
 <p align="center">
-  <img src="/image%20/corr.png" alt="correlation graph heat map " width="800" >
+  <img src="/image%20/corr.png" alt="correlation graph heat map " width="600" >
 </p>
 
 
@@ -102,7 +102,7 @@ Create synthetic balance in the dataset using SMOTE
 Due to the imbalance in our dataset we utilize SMOTE and SMOTENC to create synthetic data to improve the outcomes of our machine learning models.
 
 <p align="center">
-  <img src="/image%20/smote-code.png" alt="smote code " width="600" >
+  <img src="/image%20/smote-code.png" alt="smote code " width="800" >
 </p>
 
 <a name="scaling"></a>
