@@ -2,7 +2,6 @@
 
 ![cover Project conterbuter](<images/cover.png>)
 
-
 ## Table of Contents
 1. [Project Purpose / Description](#project-purpose)
 2. [What do the metrics measure?](#metrics)
@@ -68,7 +67,7 @@ Formula: Balanced Accuracy Score = (1/2) * ((TP / (TP + FN)) + (TN / (TN + FP)))
 data source 
 
 <p align="center">
-  <img src="images/importing data.png" alt="importing data" width="600" >
+  <img src="images/importing-data.png" alt="importing data" width="600" >
 </p>
 
 
@@ -77,13 +76,13 @@ data source
 
 
 <p align="center">
-  <img src="images/exploring data.png" alt="exploring data" width="600" >
+  <img src="images/exploring-data.png" alt="exploring data" width="600" >
 </p>
 
 the sample of what we used to explor data
 
 <p align="center">
-  <img src="images/sample of data.png" alt="sample of data" width="800" >
+  <img src="images/sample-data.png" alt="sample of data" width="800" >
 </p>
 
 
@@ -103,7 +102,7 @@ Create synthetic balance in the dataset using SMOTE
 Due to the imbalance in our dataset we utilize SMOTE and SMOTENC to create synthetic data to improve the outcomes of our machine learning models.
 
 <p align="center">
-  <img src="images/smote code.png" alt="smote code " width="600" >
+  <img src="images/smote-code.png" alt="smote code " width="600" >
 </p>
 
 <a name="scaling"></a>
@@ -161,7 +160,7 @@ Upon evaluating various machine learning models for classification purposes, it 
 Despite the challenges presented by lifestyle data, the Random Forest Classifier was the standout model upon tuning, specifically when adjusted to the optimal max depth. This model achieved a balanced accuracy score of 80%, marking it as the most effective among the classifiers we tested for predicting stroke potential. The Random Forest Classifier with an appropriate max depth is what we would recommended as a tool for stroke prediction, emphasizing the model's utility in clinical settings for early stroke risk assessment.
 
 <p align="center">
-  <img src="images/model performance.png" alt="model performance " width="800" >
+  <img src="images/model-performance.png" alt="model performance " width="800" >
 </p>
 
 
