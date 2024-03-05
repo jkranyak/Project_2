@@ -183,11 +183,11 @@ Credits -  original code written by: Sirisha Mandava, Jeff Boczkaja, Mohamed Alt
   - Contain images used in the project
 - old work/
   - contain files which we test and try
-- Project 2 complete
+- Stroke Prediction Project.ipynb
   -our main file
 -healthcare-dataset-stroke-data.csv
   -our main data set
 -Presentation Project 2.pdf
-  -out Presentation file
+  -our Presentation file
 - README.md
   -You are Here 
