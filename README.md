@@ -1,6 +1,6 @@
 # Project_2
 
-![cover Project conterbuter](/image%20/cover.png)
+![cover Project conterbuter](/image/cover.png)
 
 ## Table of Contents
 1. [Project Purpose / Description](#project-purpose)
